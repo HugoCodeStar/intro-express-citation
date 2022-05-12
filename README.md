@@ -28,5 +28,4 @@ console.log(quotes[4].author) // Affiche Robert Frost
 
 # Requis technique
 
-* L'application Express n'est pas fournie, c'est à vous de l'installer avec le express-generator.
-* L'application express doit être dans un fichier `app.js`.
+* L'application Express n'est pas fournie, c'est à vous de l'installer avec le express-generator ou une création manuelle.
